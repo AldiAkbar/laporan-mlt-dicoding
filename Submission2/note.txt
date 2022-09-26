@@ -1,0 +1,5 @@
+buat lagi dataframe isinya ISBN, nama buku, sama author buku
+
+variabel df itu dataframe dari file ratings-final.csv yang ngga diutak atik sama sekali. Variabel df itu nantinya bakalan di encoding, trus di buat jadi data training dan data testing model ML. 
+
+dataframe yang diutak atik itu variabel yang namanya resto_new. Isinya hasil merge, data cleaning dll.  
